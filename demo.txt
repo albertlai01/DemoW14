@@ -1,3 +1,5 @@
 demo
 
 Tambahkan cabang fitur-1 melalui branch develop.
+
+Sekarang di cabang rilis akan merge ke cabang main.
